@@ -2097,9 +2097,9 @@ ember-router-generator@^1.0.0:
   dependencies:
     recast "^0.11.3"
 
-"ember-template-lint@https://www.github.com/jrowlingson/ember-template-lint.git#master":
+"ember-template-lint@https://github.com/jrowlingson/ember-template-lint.git#master":
   version "0.8.3"
-  resolved "https://www.github.com/jrowlingson/ember-template-lint.git#9338f1d7adaf834c2967622fead64818d9b134a0"
+  resolved "https://github.com/jrowlingson/ember-template-lint.git#9338f1d7adaf834c2967622fead64818d9b134a0"
   dependencies:
     "@glimmer/compiler" "^0.27.0"
     "@glimmer/syntax" "^0.27.0"
