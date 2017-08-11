@@ -2099,7 +2099,7 @@ ember-router-generator@^1.0.0:
 
 "ember-template-lint@https://www.github.com/jrowlingson/ember-template-lint.git#master":
   version "0.8.3"
-  resolved "https://www.github.com/jrowlingson/ember-template-lint.git#30d4be7bb713be429f24fef4659ebd1f63cf11fd"
+  resolved "https://www.github.com/jrowlingson/ember-template-lint.git#9338f1d7adaf834c2967622fead64818d9b134a0"
   dependencies:
     "@glimmer/compiler" "^0.27.0"
     "@glimmer/syntax" "^0.27.0"
