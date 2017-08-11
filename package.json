@@ -33,7 +33,7 @@
     "chalk": "^2.0.1",
     "debug": "^2.6.8",
     "ember-cli-version-checker": "^2.0.0",
-    "ember-template-lint": "https://www.github.com/jrowlingson/ember-template-lint.git#master",
+    "ember-template-lint": "https://github.com/jrowlingson/ember-template-lint.git#master",
     "json-stable-stringify": "^1.0.1",
     "md5-hex": "^2.0.0",
     "strip-ansi": "^4.0.0",
